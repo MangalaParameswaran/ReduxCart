@@ -37,7 +37,7 @@ state.blogs.reduce((total, product) => total + product.price * (product.quantity
   },[dispatch, user.products])
 
   return <>
-    <div className='bg-dark text-center mb-5' style={{width:'100%',position:'sticky',top:'0',zIndex:'1',color:'white'}}>
+    <div className='bg-dark text-center mb-5' style={{width:'100%',position:'sticky',top:'0',zIndex:'1',color:'white',boxShadow:'10px 10px 16px grey'}}>
     <div className="row mt-4">
         <div className="col-6">
           <b>Total Cart Quantity:</b>
@@ -61,7 +61,7 @@ state.blogs.reduce((total, product) => total + product.price * (product.quantity
 
         return (
           <div key={product.id} className="col-11 col-lg-4 mb-3 mx-auto my-5">
-            <div className="card bg-light-subtle">
+            <div className="card bg-light-subtle"  style={{boxShadow:'-10px -10px 20px grey,10px 10px 20px grey'}}>
               <div id={carouselId} className="carousel slide">
                 <div className="carousel-inner">
                   {product.images.map((image, i) => (

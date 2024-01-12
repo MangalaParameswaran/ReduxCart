@@ -17,11 +17,9 @@ function DataContextComponents({ children }) {
               "category": "smartphones",
               "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
               "images": [
-                  "https://i.dummyjson.com/data/products/1/1.jpg",
-                  "https://i.dummyjson.com/data/products/1/2.jpg",
-                  "https://i.dummyjson.com/data/products/1/3.jpg",
-                  "https://i.dummyjson.com/data/products/1/4.jpg",
-                  "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+                "https://multimedia.bbycastatic.ca/multimedia/products/500x500/159/15992/15992509.jpeg",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCkXoWvKp9Gi8_rwYgLg3YGxh_oyLuN5akucflBFKd4RauyKN-m7HOCG45k-bMBnfpbBA&usqp=CAU",
+                "https://img.freepik.com/free-photo/smartphone-balancing-with-pink-background_23-2150271746.jpg?size=338&ext=jpg&ga=GA1.1.1412446893.1704931200&semt=sph"
               ]
           },
           {
@@ -36,10 +34,9 @@ function DataContextComponents({ children }) {
               "category": "smartphones",
               "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
               "images": [
-                  "https://i.dummyjson.com/data/products/2/1.jpg",
-                  "https://i.dummyjson.com/data/products/2/2.jpg",
-                  "https://i.dummyjson.com/data/products/2/3.jpg",
-                  "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+                "https://multimedia.bbycastatic.ca/multimedia/products/500x500/159/15992/15992509.jpeg",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCkXoWvKp9Gi8_rwYgLg3YGxh_oyLuN5akucflBFKd4RauyKN-m7HOCG45k-bMBnfpbBA&usqp=CAU",
+                "https://img.freepik.com/free-photo/smartphone-balancing-with-pink-background_23-2150271746.jpg?size=338&ext=jpg&ga=GA1.1.1412446893.1704931200&semt=sph"
               ]
           },
           {
@@ -54,7 +51,9 @@ function DataContextComponents({ children }) {
               "category": "smartphones",
               "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
               "images": [
-                  "https://i.dummyjson.com/data/products/3/1.jpg"
+                "https://multimedia.bbycastatic.ca/multimedia/products/500x500/159/15992/15992509.jpeg",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCkXoWvKp9Gi8_rwYgLg3YGxh_oyLuN5akucflBFKd4RauyKN-m7HOCG45k-bMBnfpbBA&usqp=CAU",
+                "https://img.freepik.com/free-photo/smartphone-balancing-with-pink-background_23-2150271746.jpg?size=338&ext=jpg&ga=GA1.1.1412446893.1704931200&semt=sph"
               ]
           },
           {
@@ -69,11 +68,9 @@ function DataContextComponents({ children }) {
               "category": "smartphones",
               "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
               "images": [
-                  "https://i.dummyjson.com/data/products/4/1.jpg",
-                  "https://i.dummyjson.com/data/products/4/2.jpg",
-                  "https://i.dummyjson.com/data/products/4/3.jpg",
-                  "https://i.dummyjson.com/data/products/4/4.jpg",
-                  "https://i.dummyjson.com/data/products/4/thumbnail.jpg"
+                "https://multimedia.bbycastatic.ca/multimedia/products/500x500/159/15992/15992509.jpeg",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCkXoWvKp9Gi8_rwYgLg3YGxh_oyLuN5akucflBFKd4RauyKN-m7HOCG45k-bMBnfpbBA&usqp=CAU",
+                "https://img.freepik.com/free-photo/smartphone-balancing-with-pink-background_23-2150271746.jpg?size=338&ext=jpg&ga=GA1.1.1412446893.1704931200&semt=sph"
               ]
           },
           {
@@ -88,9 +85,9 @@ function DataContextComponents({ children }) {
               "category": "smartphones",
               "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
               "images": [
-                  "https://i.dummyjson.com/data/products/5/1.jpg",
-                  "https://i.dummyjson.com/data/products/5/2.jpg",
-                  "https://i.dummyjson.com/data/products/5/3.jpg"
+                  "https://multimedia.bbycastatic.ca/multimedia/products/500x500/159/15992/15992509.jpeg",
+                  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCkXoWvKp9Gi8_rwYgLg3YGxh_oyLuN5akucflBFKd4RauyKN-m7HOCG45k-bMBnfpbBA&usqp=CAU",
+                  "https://img.freepik.com/free-photo/smartphone-balancing-with-pink-background_23-2150271746.jpg?size=338&ext=jpg&ga=GA1.1.1412446893.1704931200&semt=sph"
               ]
           }
       ]});
