@@ -17,6 +17,7 @@ function DataContextComponents({ children }) {
               "category": "smartphones",
               "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
               "images": [
+                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWu_uDKBP-AgyzgfQzHds2PB7Hqplq6iN-W_UMttlsWqOLkkzmUwx4WB13KQjRalcKWl8&usqp=CAU',
                 "https://multimedia.bbycastatic.ca/multimedia/products/500x500/159/15992/15992509.jpeg",
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCkXoWvKp9Gi8_rwYgLg3YGxh_oyLuN5akucflBFKd4RauyKN-m7HOCG45k-bMBnfpbBA&usqp=CAU",
                 "https://img.freepik.com/free-photo/smartphone-balancing-with-pink-background_23-2150271746.jpg?size=338&ext=jpg&ga=GA1.1.1412446893.1704931200&semt=sph"
@@ -34,6 +35,7 @@ function DataContextComponents({ children }) {
               "category": "smartphones",
               "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
               "images": [
+                'https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-finish-select-202207-pink?wid=2560&hei=1440&fmt=jpeg&qlt=95&.v=1693063160403',
                 "https://multimedia.bbycastatic.ca/multimedia/products/500x500/159/15992/15992509.jpeg",
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCkXoWvKp9Gi8_rwYgLg3YGxh_oyLuN5akucflBFKd4RauyKN-m7HOCG45k-bMBnfpbBA&usqp=CAU",
                 "https://img.freepik.com/free-photo/smartphone-balancing-with-pink-background_23-2150271746.jpg?size=338&ext=jpg&ga=GA1.1.1412446893.1704931200&semt=sph"
@@ -51,6 +53,7 @@ function DataContextComponents({ children }) {
               "category": "smartphones",
               "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
               "images": [
+                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8gv9GWota63pEqP_pWpDmyOkv8478BQE_blI9CPpUVyj4RugNJ_O3LqzG5HLv8ZSM2vo&usqp=CAU',
                 "https://multimedia.bbycastatic.ca/multimedia/products/500x500/159/15992/15992509.jpeg",
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCkXoWvKp9Gi8_rwYgLg3YGxh_oyLuN5akucflBFKd4RauyKN-m7HOCG45k-bMBnfpbBA&usqp=CAU",
                 "https://img.freepik.com/free-photo/smartphone-balancing-with-pink-background_23-2150271746.jpg?size=338&ext=jpg&ga=GA1.1.1412446893.1704931200&semt=sph"
@@ -68,8 +71,8 @@ function DataContextComponents({ children }) {
               "category": "smartphones",
               "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
               "images": [
-                "https://multimedia.bbycastatic.ca/multimedia/products/500x500/159/15992/15992509.jpeg",
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCkXoWvKp9Gi8_rwYgLg3YGxh_oyLuN5akucflBFKd4RauyKN-m7HOCG45k-bMBnfpbBA&usqp=CAU",
+                "https://multimedia.bbycastatic.ca/multimedia/products/500x500/159/15992/15992509.jpeg",
                 "https://img.freepik.com/free-photo/smartphone-balancing-with-pink-background_23-2150271746.jpg?size=338&ext=jpg&ga=GA1.1.1412446893.1704931200&semt=sph"
               ]
           },
@@ -85,9 +88,9 @@ function DataContextComponents({ children }) {
               "category": "smartphones",
               "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
               "images": [
+                "https://img.freepik.com/free-photo/smartphone-balancing-with-pink-background_23-2150271746.jpg?size=338&ext=jpg&ga=GA1.1.1412446893.1704931200&semt=sph",
                   "https://multimedia.bbycastatic.ca/multimedia/products/500x500/159/15992/15992509.jpeg",
-                  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCkXoWvKp9Gi8_rwYgLg3YGxh_oyLuN5akucflBFKd4RauyKN-m7HOCG45k-bMBnfpbBA&usqp=CAU",
-                  "https://img.freepik.com/free-photo/smartphone-balancing-with-pink-background_23-2150271746.jpg?size=338&ext=jpg&ga=GA1.1.1412446893.1704931200&semt=sph"
+                  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCkXoWvKp9Gi8_rwYgLg3YGxh_oyLuN5akucflBFKd4RauyKN-m7HOCG45k-bMBnfpbBA&usqp=CAU"
               ]
           }
       ]});
